@@ -49,10 +49,12 @@
     },
     {
       "sorszam": 6,
-      "szoveg": "",
+      "szoveg": "Az ajtó egy nyugat felé haladó alagútba nyílik. Követed. míg egy elégazáshoz nem érsz. Ha észak felé akarsz fordulni, lapozz a 172-re. Ha nem akarsz letérni ebből a járatból, lapozz a 168-ra.",
       "akcio":
       {
-
+        "tipus": "választás",
+        "megjegyzes":["Ha észak felé akarsz menni [1]", "Ha  nem akarsz letérni ebből járatból [2]"],
+      "ugras": [168, 172]
       }
     },
         {
